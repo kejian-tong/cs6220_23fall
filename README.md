@@ -2,7 +2,7 @@
 <br/><br/>
 <br/><br/>
 
-# CS6220 - Data Mining Techniques | _Fal 2023_
+# CS6220 - Data Mining Techniques | _Fall 2023
 
 This repository contains supporting material to the Data Mining Technique course being taught in the Fall of 2023.  For the most part, the material you will find here is made up of Jupyter Notebooks that will be covered in class, and that illustrate Python implementations of some of the concepts we will discuss. These files will also serve as reference for some homework assignments.
 
